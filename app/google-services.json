@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141001093713",
+    "project_id": "suda-cards-1608982739544",
+    "storage_bucket": "suda-cards-1608982739544.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141001093713:android:4d160230d859500e76be70",
+        "android_client_info": {
+          "package_name": "com.fooda.mycards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141001093713-es8mg93cq131blft6nov9gr7t5lb322l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClbfLLEDHxBgA4KUpoH-UpK5YrhBJT_ME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141001093713-es8mg93cq131blft6nov9gr7t5lb322l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

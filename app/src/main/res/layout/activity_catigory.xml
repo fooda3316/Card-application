@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/home_frag"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.mycards.activities.ShowCategoryActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+    </RelativeLayout>
+
+
+
+    <com.example.mycards.anim.AnimatedRecyclerView
+        android:id="@+id/product_rv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:animationDuration="700"
+        android:layout_margin="@dimen/margin_3dp"
+        app:layoutAnimation="@anim/layout_animation_from_bottom"
+        app:layoutManagerOrientation="vertical"
+        app:layoutManagerReverse="false"
+        app:layoutManagerType="linear"/>
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="5dp"
+        android:elevation="20dp">
+
+        <Button
+            android:id="@+id/list_to_grid"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:visibility="gone"
+            android:background="@drawable/ic_shuffle"
+            android:onClick="onToggleClicked" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

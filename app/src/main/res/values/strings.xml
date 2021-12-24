@@ -1,0 +1,153 @@
+<resources>
+    <string name="app_name">Suda Cards</string>
+    <!--    home items-->
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="rating">Rating</string>
+    <string name="about">About</string>
+    <string name="more_apps">More Apps</string>
+    <string name="send_feedback">Send feedback</string>
+    <string name="contact_with_us">Contact with us</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="wallet">Wallet</string>
+    <string name="logout">LogOut</string>
+    <string name="my_profile">My Profile</string>
+    <string name="categories">Categories</string>
+    <string name="how_to_use">How to use app</string>
+    <string name="restore_default">Restore to default</string>
+    <string name="reset_dialoge_title">Reset style</string>
+    <string name="reset_dialoge_message">Are you sure you want to Reset App style?</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_Cart">Main</string>
+    <string name="get_card">Get</string>
+    <string name="request_sent">Request has been sent</string>
+    <string name="request_now">Request now</string>
+    <!--    logIn-->
+    <string name="empty_description">No description available.</string>
+    <string name="text_signup_or"><u>Not registered yet? Create new account</u></string>
+    <string name="text_login"><u>Already a member? Login</u></string>
+    <string name="login"> Login</string>
+    <string name="invalid_password">Password must contain at least 1 Capital Alphabet, 1 Number and 1 Special Character.</string>
+    <string name="password_length">Password must contain minimum 8 characters</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="passwords_check">Passwords do not match!</string>
+    <string name="toast_invalid_username_or_password">Invalid username or password</string>
+    <string name="progress_wait">Please wait…</string>
+    <string name="email_id">Email id</string>
+    <string name="phone_id">Phone</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="signup">Signup</string>
+    <!--AlertDialog sign out-->
+    <string name="signout_message">Are you sure want to sign out?</string>
+    <string name="positive_button">OK</string>
+    <string name="default_name">--</string>
+    <string name="email">Email</string>
+    <string name="profile_icon">Profile_icon</string>
+    <string name="mail_icon">mail_icon</string>
+    <string name="info_icon">info_icon</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="choosing_image">\"choosing image\"</string>
+    <string name="choosing_image_message">You have not choosed anay pictuer \n do you wont to continu withot pictuer ?</string>
+    <string name="no">No</string>
+    <string name="login_fialure_message">Invalid email or password</string>
+    <string name="login_fialure_success">تم التسجيل بنجاح</string>
+    <string name="sell_history">Purchase process history</string>
+    <string name="purchaseShow">There are no purchases now</string>
+    <string name="purchase_date">Date: </string>
+    <string name="purchase_card_name">Card name: </string>
+    <string name="purchase_card_serialNumber">serial Number: </string>
+    <string name="purchase_card_value">Value: </string>
+    <string name="purchase_balance">Balance: </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="wallet_info">Charging records</string>
+    <string name="Banks">Banks</string>
+    <string name="History">History</string>
+    <string name="buyNow">Buy Now</string>
+    <string name="card_price">Price:</string>
+    <string name="card_title">Title</string>
+    <string name="card_sd">SD</string>
+    <string name="send_improvement">Send Notification</string>
+    <string name="upload_improvement">Press here to Upload Notification</string>
+    <string-array name="charegs_rq">
+        <item>Press here  to Upload Notification</item>
+        <item>Press here to Upload Notification</item>
+    </string-array>
+    <string name="admin">Admin</string>
+    <string name="sent_successfly">An improvement has sent successfully</string>
+    <string name="not_sent_successfly">An improvement has not sent successfully</string>
+    <string name="btn_back">Back</string>
+    <string name="header_name">Name</string>
+    <string name="choise_image">choise image</string>
+    <string name="activity_prodect_view_name">Name:</string>
+    <string name="activity_prodect_view_value">Value:</string>
+    <string name="myTextView_buy">BUY IT NOW</string>
+    <string name="alert_title">Alert</string>
+    <string name="yes">Yes</string>
+    <string name="no_connection_message">There are no internet connection \n plase try again</string>
+    <string name="chang_lang">Change language</string>
+    <string name="user_info">User Info</string>
+    <string name="forgot_pass">Forgot password</string>
+    <string name="skip">Skip</string>
+    <string name="exist_message">Are you sure you want to exit?</string>
+    <string name="reg_new_account">New account</string>
+    <string name="login_message">"You have not an account \n do you wont to create new one \n it reqired "</string>
+    <array name="TAB_TITLES">
+        <item>wallet</item>
+        <item>wallet</item>
+        <item>History</item>
+    </array>
+    <string name="Arabic">Arabic</string>
+    <string name="English">English</string>
+    <string name="language">Language</string>
+    <string name="select_language">Select the Language</string>
+    <string name="ahmed_nas_eldeen">Ahmed Nasr Eldeen</string>
+    <string name="no_internet">No internet connection!</string>
+    <string name="check_network">Please check your internet connection and try again</string>
+    <string name="retry">RETRY</string>
+    <string name="enter_verification_number_here">Enter verification number here</string>
+    <string name="verification_number">verification code</string>
+    <string name="contin">Continue</string>
+    <string name="try_again">Try again</string>
+    <string name="enter_email">Enter your email here</string>
+    <string name="ok">Ok</string>
+    <string name="enter_new_password_here">Enter new password here</string>
+    <string name="login_mess">Sorry your email does not exist please try with another one</string>
+    <string name="change_pass">Change password</string>
+    <string name="facebook_app_id">YOUR_APP_ID</string>
+    <string name="fb_login_protocol_scheme">fb231833271653256</string>
+
+    <string name="your_order_submitted">Your request has been submitted successfully</string>
+    <string name="our_team_will_check_your_order">The staff will follow up your application</string>
+    <string name="back">Back</string>
+    <string name="feedback">Feedback</string>
+    <string name="complaint">Complaint</string>
+    <string name="description">description</string>
+    <string name="send">Send</string>
+    <string name="contact_by_whatsapp">Contact By WhatsApp</string>
+    <string name="whatsapp"> WhatsApp</string>
+    <!--intro-->
+    <string name="message1">message1</string>
+    <string name="message2">message2</string>
+    <string name="message3">message3</string>
+    <string name="message4">message4</string>
+    <string name="message5">message5</string>
+    <string name="next">Next</string>
+    <string name="get_started">Get Started</string>
+    <string name="google_service">Google play service</string>
+    <string name="google_service_not_avilable">Google play service not available</string>
+    <string name="update">Update the App</string>
+    <string name="update_message">There are new version you must update the app</string>
+    <string name="testing_ad_unit_native_id">ca-app-pub-1250007983185910/3147334483</string>
+    <string name="testing_ad_unit_banner_id">ca-app-pub-1250007983185910/5226702912</string>
+    <string name="inst">Instagram</string>
+    <string name="youtube">Youtube</string>
+    <string name="twitter">Twitter</string>
+    <string name="Facebook">Facebook</string>
+
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/white"
+    android:fitsSystemWindows="true">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="260.0dip"
+            android:layout_height="220.0dip"
+            android:layout_marginBottom="@dimen/_15sdp"
+            android:src="@drawable/app_logo" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/your_order_submitted"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Title"
+            android:textColor="@color/grey_80"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/spacing_medium"
+            android:gravity="center"
+            android:text="@string/our_team_will_check_your_order"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Subhead"
+            android:textColor="@color/grey_60" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/acbContinue"
+            android:layout_width="200.0dip"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30.0dip"
+            android:background="@drawable/button_background"
+            android:text="@string/back"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+</RelativeLayout>

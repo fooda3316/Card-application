@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_male"
+            android:title="@string/my_profile" />
+
+
+        <item
+            android:id="@+id/navWallet"
+            android:icon="@drawable/ic_wallet"
+            android:title="@string/wallet" />
+      <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="@string/settings" />
+        <item
+            android:id="@+id/nav_how_to_use"
+            android:icon="@drawable/how_to_use"
+            android:title="@string/how_to_use" />
+
+        <item
+            android:id="@+id/nav_rating"
+            android:icon="@drawable/ic_rating"
+            android:title="@string/rating" />
+        <item
+            android:id="@+id/nav_send_feedback"
+            android:icon="@drawable/ic_send_feedback"
+            android:title="@string/send_feedback" />
+      <item
+            android:id="@+id/nav_facebook"
+            android:icon="@drawable/ic_fa"
+            android:title="@string/Facebook" />
+        <item
+        android:id="@+id/nav_twitter"
+        android:icon="@drawable/ic_tw"
+        android:title="@string/twitter" />
+
+
+        <item
+            android:id="@+id/nav_inst"
+            android:icon="@drawable/ic_ins"
+            android:title="@string/inst" />
+        <item
+            android:id="@+id/nav_youtube"
+            android:icon="@drawable/ic_youtube"
+            android:title="@string/youtube"
+           />
+
+         <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_about"
+            android:title="@string/about" />
+
+
+    </group>
+
+</menu>

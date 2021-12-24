@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#449def</color>
+    <color name="colorPrimaryDark">#0584F9</color>
+<!--    <color name="colorPrimary">#a5132d</color>-->
+<!--    <color name="colorPrimaryDark">#700b1d</color>-->
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorLearnedDark">#8392D5B8</color>
+    <color name="weeklyBackground">#DADDE8</color>
+    <color name="transparent">#00000000</color>
+    <color name="ic_launcher_background">@color/blue</color>
+
+    <color name="black_effective">#2a2a2a</color>
+    <color name="light_gray">#dbdbdb</color>
+    <color name="dark_gray">#696969</color>
+    <color name="colorPrimaryLight">#4f65e2</color>
+    <color name="black">#000000</color>
+    <color name="gen_white">#FFFFFF</color>
+    <color name="orange">#fff68521</color>
+    <color name="off_white">#fff5f5f5</color>
+    <color name="light_blue">#ff5baaf4</color>
+    <color name="white">#FFFFFF</color>
+    <color name="purple">#ffa8b5d8</color>
+    <color name="grey_60">#ff666666</color>
+    <color name="grey_80">#ff37474f</color>
+    <color name="grey_5">#fff2f2f2</color>
+    <color name="grey_40">#ff999999</color>
+    <color name="menu_text_color">#ff2c2c4c</color>
+    <color name="teal_700">#ff00796b</color>
+    <color name="teal_500">#ff009688</color>
+    <color name="fooda">#55609e</color>
+    <color name="fooda2">#09090a</color>
+
+
+    <color name="green">#ff42b72a</color>
+    <color name="red">#FA0426</color>
+    <color name="yellow">#f8d64e</color>
+    <color name="blue_color">#0529F1</color>
+    <color name="purple_color">#64015F</color>
+    <color name="light_green">#1bac94</color>
+    <color name="pin_normal">#6B767E</color>
+    <!--    chainge app thiem-->
+    <color name="color_1_1">#009311</color>
+    <color name="color_1_2">#015c0b</color>
+    <color name="color_1_3">#f28d00</color>
+    <color name="color_2_1">#F8F402</color>
+    <color name="color_2_2">#F1E04C</color>
+    <color name="color_2_3">#00b49f</color>
+    <color name="color_3_1">#090909</color>
+    <color name="color_3_2">#3E3D3D</color>
+    <color name="color_3_3">#686464</color>
+    <color name="color_4_1">#008577</color>
+    <color name="color_4_2">#5863A0</color>
+    <color name="color_4_3">#3656F4</color>
+    <color name="color_5_1">#64015F</color>
+    <color name="color_5_2">#9C1882</color>
+    <color name="color_5_3">#686464</color>
+
+    <color name="background_color">#009688</color>
+    <color name="cardBackgroungColor">#fafafa</color>
+    <color name="backgroungColor">#f5f5f5</color>
+    <color name="cardBorderColor">#dedede</color>
+
+    <color name="devider">#ebebeb</color>
+    <color name="colorSub">#b0afaf</color>
+    <color name="colorTex">#585858</color>
+    <color name="colorblue">#4c71f5</color>
+
+    <color name="colordevider">#f1f2f4</color>
+    <color name="colorbutton">#ff5254</color>
+    <color name="iconcolour">#9ba4ab</color>
+    <color name="strok">#e4e5ea</color>
+    <color name="borderColor">#EAEAEA</color>
+    <color name="colorPressedGrey">#f2f2f2</color>
+
+    <color name="grey">#E9EAEE</color>
+    <color name="goodgrey">#535353</color>
+    <color name="blue">#293859</color>
+    <color name="lightgrey">#EEEEEE</color>
+
+    <color name="colorText">#212121</color>
+    <color name="darkGray">#757575</color>
+<!--    Home colors-->
+    <color name="google">#000000</color>
+    <color name="itunes">#64015F</color>
+    <color name="pubg">#000000</color>
+    <color name="freefire">#FA0426</color>
+    <color name="playstation">#0529F1</color>
+    <color name="razer">#333232</color>
+    <color name="gamestop">#FD4308</color>
+    <color name="starzplay">#0e97f0</color>
+    <color name="steam">#FADA02</color>
+    <color name="xbox">#067A13</color>
+    <color name="amizon">#000000</color>
+    <color name="netflix">#FA0426</color>
+    <color name="ebay">#1093e7</color>
+    <color name="spotify">#01f423</color>
+    <color name="mobilelegend">#F40606</color>
+    <color name="osn">#ffffff</color>
+    <color name="fortnit">#CA03EC</color>
+    <color name="minecraft">@color/colorAccent</color>
+    <color name="imvu">#03F48C</color>
+    <color name="hulu">#000</color>
+    <color name="home_frag">#F0EEEE</color>
+
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text40">40sp</dimen>
+    <dimen name="text30">30sp</dimen>
+
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">150dp</dimen>
+
+    <dimen name="button_padding_bottom">8.0dip</dimen>
+    <dimen name="button_padding_right">8.0dip</dimen>
+    <dimen name="button_padding_left">8.0dip</dimen>
+    <dimen name="button_padding_top">8.0dip</dimen>
+    <dimen name="_5sdp">18.0dip</dimen>
+
+    <dimen name="text">15dp</dimen>
+    <dimen name="sub_text">10dp</dimen>
+    <dimen name="margin_10dp">10dp</dimen>
+    <dimen name="margin_1dp">1dp</dimen>
+    <dimen name="margin_3dp">3dp</dimen>
+    <dimen name="margin_15dp">15dp</dimen>
+    <dimen name="margin_5dp">5dp</dimen>
+    <dimen name="margin_2dp">2dp</dimen>
+    <dimen name="header_margin">5dp</dimen>
+<!--logIn-->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+<!--bank item-->
+    <dimen name="title_heigh">100dp</dimen>
+    <dimen name="title_text">20sp</dimen>
+    <dimen name="margin_48dp">24dp</dimen>
+    <dimen name="_100sdp">100dp</dimen>
+    <dimen name="_50sdp">50dp</dimen>
+    <dimen name="_8sdp">8dp</dimen>
+    <dimen name="_7sdp">7dp</dimen>
+    <dimen name="_17sdp">17dp</dimen>
+    <dimen name="_30sdp">30dp</dimen>
+    <dimen name="_15sdp">15dp</dimen>
+    <dimen name="spacing_large">15.0dip</dimen>
+    <dimen name="spacing_medium">5.0dip</dimen>
+    <dimen name="spacing_middle">10.0dip</dimen>
+    <dimen name="spacing_mlarge">20.0dip</dimen>
+    <dimen name="spacing_mxlarge">25.0dip</dimen>
+    <dimen name="spacing_small">3.0dip</dimen>
+    <dimen name="spacing_smlarge">18.0dip</dimen>
+    <dimen name="spacing_xlarge">35.0dip</dimen>
+    <dimen name="_20sdp">20sp</dimen>
+    <dimen name="_2sdp">2dp</dimen>
+    <dimen name="font_20sp">20sp</dimen>
+    <dimen name="_40sdp">40dp</dimen>
+</resources>
